@@ -14,4 +14,4 @@ TwitchBot.py - Twitch component.
 
 YoutubeVideoTest.py - musicplaying component (uses pafy)
 
-StreamCurrencyManager - unfinished "stream currency" component, only works for goodgame right now.
+StreamCurrencyManager.py - unfinished "stream currency" component, only works for goodgame right now.

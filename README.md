@@ -7,7 +7,11 @@ My little bot I did in my spare time as a hobby. The code is probably pretty hor
 Structure:
 
 Launcher.py - the launcher file, includes Twitch, Goodgame and musicplaying components
+
 GGBot.py - Goodgame component.
+
 TwitchBot.py - Twitch component.
+
 YoutubeVideoTest.py - musicplaying component (uses pafy)
+
 StreamCurrencyManager - unfinished "stream currency" component, only works for goodgame right now.
